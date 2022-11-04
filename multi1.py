@@ -5,5 +5,7 @@ e = 50
 
 c = a * b * d * e
 m = a + b
+t = a -b
 print(c)
 print(m)
+print(t)
